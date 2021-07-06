@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.parent1
+{
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+.child1
+{
+  height: 100px;
+  width:15%;
+  background-color: red;
+
+}
+.parent2 
+{
+   width:100%;
+  background-color: blue;
+}
+.child2
+{
+    height: 100px;
+    width: 20%;
+    background-color: gray;
+    display:inline-block;
+    margin-left: 4%;
+}
